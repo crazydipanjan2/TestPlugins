@@ -1,4 +1,4 @@
-package com.MPplayer
+package com.MPlayer
 
 import android.content.Context
 import androidx.appcompat.app.AppCompatActivity
