@@ -1,4 +1,4 @@
-package com.mcplayer
+package com.mxplayer
 
 import android.content.Context
 import androidx.appcompat.app.AppCompatActivity
