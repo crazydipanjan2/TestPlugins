@@ -1,4 +1,4 @@
-package com.example
+package com.mcplayer
 
 import android.content.Context
 import androidx.appcompat.app.AppCompatActivity
