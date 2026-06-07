@@ -1,4 +1,4 @@
-package com.Mxplayer
+package com.MPlayer
 
 import com.lagradost.cloudstream3.*
 import com.lagradost.cloudstream3.utils.ExtractorLink
